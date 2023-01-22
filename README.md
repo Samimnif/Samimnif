@@ -2,7 +2,7 @@ Hi,<br>
 My name is Sami and I am a Software Engineer Student at Carleton University.<br>
 I love doing projects in my free time.<br>
 Currently, I learned Pyhton, Java, C, Bash, HTML, CSS, JavaScript and AppleScript.<br>
-Check my portfolio for my cool projects.<br>
+Check my [portfolio](https://github.com/Samimnif/Portfolio-Personal-Projects) for my cool projects.<br>
 
 <!---
 Samimnif/Samimnif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
