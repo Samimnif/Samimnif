@@ -7,14 +7,13 @@
 
 ### Network
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sami-mnif-64346b178/)
-[![Discord](https://skillicons.dev/icons?i=discord)]()
 
 ### Skills
 |  |  |
 | ------------- | ------------- |
-| Programming/Backend  | [![Languages](https://skillicons.dev/icons?i=python,c,java,flask,nodejs&perline=3)](https://www.linkedin.com/in/sami-mnif-64346b178/)  |
-| Front Dev  | [![FrontDev](https://skillicons.dev/icons?i=js,html,css,angular,ts,bootstrap,pug,react,&perline=3)](https://www.linkedin.com/in/sami-mnif-64346b178/)  |
-| Database  | [![DataBase](https://skillicons.dev/icons?i=sqlite,&perline=3)](https://www.linkedin.com/in/sami-mnif-64346b178/)  |
+| Programming/Backend  | [![Languages](https://skillicons.dev/icons?i=python,c,java,flask,nodejs&perline=3)]()  |
+| Front Dev  | [![FrontDev](https://skillicons.dev/icons?i=js,html,css,angular,ts,bootstrap,pug,react,&perline=3)]()  |
+| Database  | [![DataBase](https://skillicons.dev/icons?i=sqlite,&perline=3)]()  |
 | Embedded Systems  | [![EmbeddedSys](https://skillicons.dev/icons?i=raspberrypi,arduino,&perline=3)]()  |
 | SysOps  | [![sys](https://skillicons.dev/icons?i=linux,bash,powershell,maven&perline=3)]()  |
 | IDE  | [![IDEs](https://skillicons.dev/icons?i=vscode,atom,idea&perline=3)]()  |
