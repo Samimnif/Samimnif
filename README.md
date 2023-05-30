@@ -17,10 +17,11 @@
 | Embedded Systems  | [![EmbeddedSys](https://skillicons.dev/icons?i=raspberrypi,arduino,&perline=3)]()  |
 | SysOps  | [![sys](https://skillicons.dev/icons?i=linux,bash,powershell,maven&perline=3)]()  |
 | IDE  | [![IDEs](https://skillicons.dev/icons?i=vscode,atom,idea&perline=3)]()  |
-| Tools  | [![tool](https://skillicons.dev/icons?i=autocad&perline=3)]()  |
+| Tools  | [![tool](https://skillicons.dev/icons?i=autocad,jenkins,git,github,latex,matlab,&perline=3)]()  |
 
 [![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samimnif&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- https://github.com/tandpfun/skill-icons -->
 <!---
 Samimnif/Samimnif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
