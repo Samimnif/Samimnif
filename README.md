@@ -19,7 +19,6 @@
 | IDE  | [![IDEs](https://skillicons.dev/icons?i=vscode,atom,idea&perline=5)]()  |
 | Tools  | [![tool](https://skillicons.dev/icons?i=autocad,jenkins,git,github,latex,matlab,&perline=5)]()  |
 
-[![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samimnif&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <!---
