@@ -5,6 +5,8 @@
 * 🏛️ Engrossed in building personal projects. 
 * ⚱️ Set yer sights on me treasure trove of creations [here](https://github.com/Samimnif?tab=repositories), Arrr...
 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'I2I2150Y2E');kofiwidget2.draw();</script> 
+
 ### Network
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sami-mnif-64346b178/)
 
